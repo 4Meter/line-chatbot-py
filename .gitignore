@@ -1,1 +1,6 @@
-venv
+# virtualenv
+venv/
+
+# private keys & other info
+private_info.py
+
