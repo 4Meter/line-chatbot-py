@@ -1,3 +1,6 @@
+# local file
+__pycache__/
+
 # virtualenv
 venv/
 
